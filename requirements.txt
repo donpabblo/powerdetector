@@ -1,0 +1,4 @@
+requests==2.31.0
+keyring==20.0.1
+keyrings.alt==3.2.0
+python-crontab==2.4.2
